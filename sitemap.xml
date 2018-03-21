@@ -1,0 +1,28 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url> 
+   <loc>https://www.abc.com</loc>
+   <lastmod>2018-03-15</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>1.0</priority>
+</url> 
+<url> 
+<loc>https://www.abc.com/lanmu1/</loc>
+   <lastmod>2018-03-15</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8</priority>
+</url>
+<url> 
+<loc>https://www.abc.com/lanmu2/</loc>
+   <lastmod>2018-03-15</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8</priority>
+</url>
+<url> 
+<loc>https://www.abc.com/lanmu4/</loc>
+   <lastmod>2018-03-15</lastmod>
+   <changefreq>daily</changefreq>
+   <priority>0.8</priority>
+</url>
+<url> 
+<loc>https://www.abc.com/lanmu/wenzhang.htm1</loc>
+   <lastmod>2018-03-15</lastmod>
