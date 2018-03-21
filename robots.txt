@@ -1,0 +1,7 @@
+User-agent:*
+Disallow: /css/
+Disallow: /js/
+Disallow: /404.html
+Disallow: /favicon.ico
+
+Sitemap: https:11www.abc.com/sitemap.xml
